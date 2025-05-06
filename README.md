@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Hadi</h2>
 
 <p align="center">
-🚀 Passionate Full-Stack Developer &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 Self-Taught Learner &nbsp;&nbsp;|&nbsp;&nbsp; 💡 Code for Impact
+🚀 Passionate Full-Stack Developer &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 Self-Taught Learner &nbsp;&nbsp;|&nbsp;&nbsp; 
 </p>
 
 ---
