@@ -1,42 +1,60 @@
 <h2 align="center">Hi there 👋 I'm Hadi</h2>
 
-<p align="center">
-🚀 Passionate Full-Stack Developer &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 Self-Taught Learner &nbsp;&nbsp;|&nbsp;&nbsp; 
+<p align="center" style="font-size: 18px;">
+🚀 <strong>Passionate Full-Stack Developer</strong> &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 <strong>Self-Taught Learner</strong>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<h3>👨‍💻 About Me</h3>
 
-- 🧑‍💻 Self-taught programmer from **Afghanistan**  
-- 💡 I believe in solving real human problems through code  
-- 🚧 Currently building side projects that solve real-world issues  
-
----
-
-### 🧰 My Toolbox
-
-**Languages**  
-`Python` &nbsp;•&nbsp; `C` &nbsp;•&nbsp; `C++` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `HTML/CSS`
-
-**Frameworks & Libraries**  
-`Django` &nbsp;•&nbsp; `React` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `Flask` &nbsp;•&nbsp; `Bootstrap`
-
-**Databases & Tools**  
-`MySQL` &nbsp;•&nbsp; `Git` &nbsp;•&nbsp; `VS Code` &nbsp;•&nbsp; `Linux Terminal`
+<ul>
+  <li><strong>🧑‍💻 Self-taught programmer from Afghanistan</strong></li>
+  <li><strong>💡 I believe in solving real human problems through code</strong></li>
+</ul>
 
 ---
 
-### 📈 GitHub Stats
+<h3>🧰 My Toolbox</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="47%" />
+<strong>Languages</strong>  
+<p align="center" style="font-size: 18px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
+
+<strong>Frameworks & Libraries</strong>  
+<p align="center" style="font-size: 18px;">
+  <img src="https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+</p>
+
+<strong>Databases & Tools</strong>  
+<p align="center" style="font-size: 18px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  &nbsp;
+</p>
+
 ---
 
-
-
-<p align="center"><em>Thanks for visiting — let’s build something amazing together! 🚀
-
-</em></p>
+<p align="center"><em><strong>Thanks for being here — let’s build something amazing together!</strong> 🚀</em></p>
