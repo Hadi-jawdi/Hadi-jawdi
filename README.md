@@ -57,4 +57,9 @@
 
 ---
 
-<p align="center"><em><strong>Thanks for being here — let’s build something amazing together!</strong> 🚀</em></p>
+<h3 align="center"><em><strong>Thanks for being here — let’s build something amazing together!</strong> 🚀</em></h3>
+📬 Contact Me
+I'm always open to collaboration, freelance work, or just a friendly chat. Feel free to reach out anytime — I’d love to connect!
+
+📧 Email: hadijawadi1385@gmail.com
+
