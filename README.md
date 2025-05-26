@@ -11,6 +11,7 @@
 <ul>
   <li><strong>🧑‍💻 Self-taught programmer from Afghanistan</strong></li>
   <li><strong>💡 I believe in solving real human problems through code</strong></li>
+  <li><strong>💡 passionate in exploring the world of AI </strong></li>
 </ul>
 
 ---
