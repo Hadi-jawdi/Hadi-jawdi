@@ -1,18 +1,8 @@
-<h2 align="center">Hi there 👋 I'm Hadi</h2>
+<h2 align="center">Hi there 👋 I'm Hadi Jawdi</h2>
 
 <p align="center" style="font-size: 18px;">
-🚀 <strong>Passionate Full-Stack and AI Developer</strong> &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 <strong>Self-Taught Learner</strong>
+🚀 <strong>Passionate Full-Stack & AI Developer</strong> &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 <strong>Self-Taught Learner</strong>
 </p>
-
----
-
-<h3>👨‍💻 About Me</h3>
-
-<ul>
-  <li><strong>🧑‍💻 Self-taught programmer from Afghanistan</strong></li>
-  <li><strong>💡 I believe in solving real human problems through code</strong></li>
-  <li><strong>💡 passionate in exploring the world of AI </strong></li>
-</ul>
 
 ---
 
@@ -53,14 +43,29 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+<strong>AI Tools</strong>  
+<p align="center" style="font-size: 18px;">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFBF00?style=flat&logo=huggingface&logoColor=white" />
   &nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 </p>
 
 ---
 
 <h3 align="center"><em><strong>Thanks for being here — let’s build something amazing together!</strong> 🚀</em></h3>
-📬 Contact Me
+
+<h3>📬 Contact Me</h3>
+
+<p>
 I'm always open to collaboration, freelance work, or just a friendly chat. Feel free to reach out anytime — I’d love to connect!
+</p>
 
-📧 Email: hadijawadi1385@gmail.com
-
+📧 **Email:** hadi.jawdi2006@gmail.com
