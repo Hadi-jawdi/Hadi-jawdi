@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋 I'm Hadi Jawdi</h2>
 
 <p align="center" style="font-size: 18px;">
-🚀 <strong>Passionate Full-Stack & AI Developer</strong> &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 <strong>Self-Taught Learner</strong>
+🚀 <strong>Passionate Full-Stack Developer</strong> &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 <strong>Self-Taught Learner</strong>
 </p>
 
 ---
@@ -45,18 +45,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-<strong>AI Tools</strong>  
-<p align="center" style="font-size: 18px;">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFBF00?style=flat&logo=huggingface&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-</p>
+
 
 ---
 
