@@ -1,3 +1,5 @@
-Working on big things ....... <br>
+### Working on big things ....... 
 
-Currently Building [Vknow.app](https://www.vknow.app) for Afghan students.
+Currently Building [Vknow.app](https://www.vknow.app) for Afghan students. 
+
+Working at [nextcare.ai](https://github.com/Nextcare-ai)
