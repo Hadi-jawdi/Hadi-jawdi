@@ -1,4 +1,4 @@
-# I wanna be one of the greats!
+# Doing somthing that the world has never seen before!
 
 - Currently Building [**Azdoor**](https://aazdoor.com/) — an online real estate platform for Afghanistan.
 - Founder of [**VKnow**](https://vknow.app/) — an educational platform for Afghan students.
